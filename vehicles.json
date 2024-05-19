@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Car 1",
+    "initialPositionX": 10,
+    "initialPositionY": 20,
+    "speed": 5,
+    "direction": "Towards",
+    "scenarioId": "1"
+  },
+  {
+    "id": "2",
+    "name": "Car 2",
+    "initialPositionX": 15,
+    "initialPositionY": 25,
+    "speed": 3,
+    "direction": "Backwards",
+    "scenarioId": "2"
+  }
+]

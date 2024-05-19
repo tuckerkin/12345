@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Test Scenario 1",
+    "time": 60
+  },
+  {
+    "id": "2",
+    "name": "Test Scenario 2",
+    "time": 120
+  }
+]
